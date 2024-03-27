@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  elastic-agent:
+  - apiVersion: v2
+    appVersion: 8.12.2
+    created: "2024-03-27T08:11:15.033437615Z"
+    description: A Helm chart for Kubernetes
+    digest: 61bc1834c07c2d20707a662c512bad8b91fee3bd29733b9f02387f684d022bca
+    name: elastic-agent
+    type: application
+    urls:
+    - https://github.com/supu2/elastic-agent/releases/download/elastic-agent-0.1.0/elastic-agent-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-27T08:11:15.033485915Z"
